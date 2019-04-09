@@ -51,3 +51,8 @@ test('Breakfast at 09:00, Dinner at 21:01', () => {
   expect(getTime('Breakfast at 09:00, Dinner at 21:01'))
     .toBe('09:00');
 });
+
+test('Breakfast at 24:00', () => {
+  expect(getTime('Breakfast at 24:00'))
+    .toBe('');
+});
