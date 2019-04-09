@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "get-time",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "Get time from the string",
+  "main": "src/getTime.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"

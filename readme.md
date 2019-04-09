@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# Get time from the string 
 
 **Read the guideline before start**
 
